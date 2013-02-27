@@ -1,7 +1,7 @@
 MVC
 ===
 
-#Introduction
+##Introduction
 
 This is an MVC-based JavaScript application framework.
 
